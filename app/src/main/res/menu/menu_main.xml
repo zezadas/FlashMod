@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_backup" android:title="@string/action_backup"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_apply" android:title="@string/action_apply"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_restore" android:title="@string/action_restore"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_reboot" android:title="@string/action_reboot"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_about" android:title="@string/action_about"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+
+</menu>

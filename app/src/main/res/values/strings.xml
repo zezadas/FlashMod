@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FlashMod</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_backup">backup</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_flash">Flash</string>
+    <string name="action_reboot">Reboot</string>
+    <string name="torch_max_current">Torch Max Current for camera:</string>
+    <string name="unknow">\??/??</string>
+    <string name="led_for_torch_or_video_recording">LED If setting for Torch or video recording</string>
+    <string name="led_indicator">LED If setting for Indicator</string>
+    <string name="flash_led_if_current">Flash LED_If max current</string>
+    <string name="test_flash">Test Flash</string>
+    <string name="flash_off">Flash OFF</string>
+    <string name="action_about">About</string>
+</resources>
